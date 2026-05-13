@@ -9,7 +9,7 @@ BEFORE contiene el tope de la operación anterior
 Ejecución sin argumentos para modo interactivo, argumentos para ejecución secuencial y concatenada de archivos (comparte pila).
 
 Ej:
-```python
+```
 10 10 +
 PRINT
 "Imprimira 20"
