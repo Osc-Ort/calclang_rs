@@ -17,4 +17,5 @@ PRINT
 0 10 /
 PRINT
 "Imprimira 10**100000 (número muy alto para representar infinito con enteros)"
+
 ```
